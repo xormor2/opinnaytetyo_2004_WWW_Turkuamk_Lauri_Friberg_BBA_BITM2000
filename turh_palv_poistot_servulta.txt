@@ -1,0 +1,5 @@
+cd /etc/rc.d/rc5.d
+mv S17alsa backup.S17alsa
+mv S18sound backup.S18sound
+mv S56rawdevices backup.S56rawdevices
+mv S56xinetd backup.S56xinetd
