@@ -1,0 +1,27 @@
+
+Starting nmap 3.81 ( http://www.insecure.org/nmap/ ) at 2005-08-22 12:09 EEST
+Interesting ports on 192.168.1.1:
+(The 1644 ports scanned but not shown below are in state: filtered)
+PORT     STATE  SERVICE
+22/tcp   closed ssh
+80/tcp   open   http
+113/tcp  closed auth
+135/tcp  closed msrpc
+139/tcp  closed netbios-ssn
+443/tcp  open   https
+445/tcp  closed microsoft-ds
+6000/tcp closed X11
+6001/tcp closed X11:1
+6002/tcp closed X11:2
+6003/tcp closed X11:3
+6004/tcp closed X11:4
+6005/tcp closed X11:5
+6006/tcp closed X11:6
+6007/tcp closed X11:7
+6008/tcp closed X11:8
+6009/tcp closed X11:9
+6017/tcp closed xmail-ctrl
+6050/tcp closed arcserve
+MAC Address: 00:B0:D0:3B:58:D5 (Dell Computer)
+
+Nmap finished: 1 IP address (1 host up) scanned in 17.406 seconds
